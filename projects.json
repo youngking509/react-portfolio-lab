@@ -1,15 +1,15 @@
 
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "GiphyApp",
+      "live": "https://pages.git.generalassemb.ly/kingzy-v/Giphy-Project/",
+      "git": "https://git.generalassemb.ly/kingzy-v/Giphy-Project",
+      "image": "https://media.git.generalassemb.ly/user/40401/files/76064e80-5f2b-11ec-98c9-bb05317f6321"
     },
     {
-      "name": "project2",
+      "name": "MyGoalyApp",
       "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/youngking509/MyGoalsApp",
+      "image": "https://user-images.githubusercontent.com/94661081/149425714-4cb215a8-f9a1-4090-983c-a14e526eb448.png"
     }
   ]
